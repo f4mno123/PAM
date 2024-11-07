@@ -22,4 +22,94 @@
         android:name="com.example.myapplication.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
+
+    <fragment
+        android:id="@+id/menu_task4"
+        android:name="com.example.myapplication.ui.task4.Task4Fragment"
+        android:label="@string/menu_task4"
+        tools:layout="@layout/fragment_task4" />
+
+    <fragment
+        android:id="@+id/menu_task5"
+        android:name="com.example.myapplication.ui.task5.Task5Fragment"
+        android:label="@string/menu_task5"
+        tools:layout="@layout/fragment_task5" />
+
+    <fragment
+        android:id="@+id/menu_task6"
+        android:name="com.example.myapplication.ui.task6.Task6Fragment"
+        android:label="@string/menu_task6"
+        tools:layout="@layout/fragment_task6" />
+
+    <fragment
+        android:id="@+id/menu_task7"
+        android:name="com.example.myapplication.ui.task7.Task7Fragment"
+        android:label="@string/menu_task7"
+        tools:layout="@layout/fragment_task7" />
+
+    <fragment
+        android:id="@+id/menu_task8"
+        android:name="com.example.myapplication.ui.task8.Task8Fragment"
+        android:label="@string/menu_task8"
+        tools:layout="@layout/fragment_task8" />
+
+    <fragment
+        android:id="@+id/menu_task9"
+        android:name="com.example.myapplication.ui.task9.Task9Fragment"
+        android:label="@string/menu_task9"
+        tools:layout="@layout/fragment_task9" />
+
+    <fragment
+        android:id="@+id/menu_task10"
+        android:name="com.example.myapplication.ui.task10.Task10Fragment"
+        android:label="@string/menu_task10"
+        tools:layout="@layout/fragment_task10" />
+
+    <fragment
+        android:id="@+id/menu_task11"
+        android:name="com.example.myapplication.ui.task11.Task11Fragment"
+        android:label="@string/menu_task11"
+        tools:layout="@layout/fragment_task11" />
+
+    <fragment
+        android:id="@+id/menu_task12"
+        android:name="com.example.myapplication.ui.task12.Task12Fragment"
+        android:label="@string/menu_task12"
+        tools:layout="@layout/fragment_task12" />
+
+    <fragment
+        android:id="@+id/menu_task13"
+        android:name="com.example.myapplication.ui.task13.Task13Fragment"
+        android:label="@string/menu_task13"
+        tools:layout="@layout/fragment_task13" />
+
+    <fragment
+        android:id="@+id/menu_task14"
+        android:name="com.example.myapplication.ui.task14.Task14Fragment"
+        android:label="@string/menu_task14"
+        tools:layout="@layout/fragment_task14" />
+
+    <fragment
+        android:id="@+id/menu_task15"
+        android:name="com.example.myapplication.ui.task15.Task15Fragment"
+        android:label="@string/menu_task15"
+        tools:layout="@layout/fragment_task15" />
+
+    <fragment
+        android:id="@+id/menu_task16"
+        android:name="com.example.myapplication.ui.task16.Task16Fragment"
+        android:label="@string/menu_task16"
+        tools:layout="@layout/fragment_task16" />
+
+    <fragment
+        android:id="@+id/menu_task17"
+        android:name="com.example.myapplication.ui.task17.Task17Fragment"
+        android:label="@string/menu_task17"
+        tools:layout="@layout/fragment_task17" />
+
+    <fragment
+        android:id="@+id/menu_task18"
+        android:name="com.example.myapplication.ui.task18.Task18Fragment"
+        android:label="@string/menu_task18"
+        tools:layout="@layout/fragment_task18" />
 </navigation>

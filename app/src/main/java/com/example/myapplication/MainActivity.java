@@ -26,8 +26,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        //load image https://www.pinterest.com/starziano/winter-cats/
-
         binding = ActivityMainBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
 
@@ -45,9 +43,26 @@ public class MainActivity extends AppCompatActivity {
         // Passing each menu ID as a set of Ids because each
         // menu should be considered as top level destinations.
         mAppBarConfiguration = new AppBarConfiguration.Builder(
-                R.id.nav_home, R.id.nav_gallery, R.id.nav_slideshow)
-                .setOpenableLayout(drawer)
-                .build();
+                R.id.nav_home,
+                R.id.nav_gallery,
+                R.id.nav_slideshow,
+                R.id.menu_task4,
+                R.id.menu_task5,
+                R.id.menu_task6,
+                R.id.menu_task7,
+                R.id.menu_task8,
+                R.id.menu_task9,
+                R.id.menu_task10,
+                R.id.menu_task11,
+                R.id.menu_task12,
+                R.id.menu_task13,
+                R.id.menu_task14,
+                R.id.menu_task15,
+                R.id.menu_task16,
+                R.id.menu_task17,
+                R.id.menu_task18
+        ).setOpenableLayout(drawer).build();
+
         NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment_content_main);
         NavigationUI.setupActionBarWithNavController(this, navController, mAppBarConfiguration);
         NavigationUI.setupWithNavController(navigationView, navController);

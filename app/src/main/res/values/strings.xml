@@ -10,7 +10,27 @@
     <string name="menu_home">Task 1</string>
     <string name="menu_gallery">Task 2</string>
     <string name="menu_slideshow">Task 3</string>
+    <string name="menu_task4">Task 4</string>
+    <string name="menu_task5">Task 5</string>
+    <string name="menu_task6">Task 6</string>
+    <string name="menu_task7">Task 7</string>
+    <string name="menu_task8">Task 8</string>
+    <string name="menu_task9">Task 9</string>
+    <string name="menu_task10">Task 10</string>
+    <string name="menu_task11">Task11</string>
+    <string name="menu_task12">Task 12</string>
+    <string name="menu_task13">Task 13</string>
+    <string name="menu_task14">Task 14</string>
+    <string name="menu_task15">Task 15</string>
+    <string name="menu_task16">Task 16</string>
+    <string name="menu_task17">Task 17</string>
+    <string name="menu_task18">Task 18</string>
+
+
     <string name="personalName">Albert Rzadzinski</string>
     <string name="githubLink">https://github.com/f4mno123/PAM</string>
     <string name="pfp">https://www.pinterest.com/starziano/winter-cats/</string>
+    <string name="snackbar_or_toast">Snackbar/Toast</string>
+    <string name="submit">Button</string>
+    <string name="label_text">Text</string>
 </resources>
